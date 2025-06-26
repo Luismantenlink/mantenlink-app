@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MantenLink",
+    "slug": "mantenlink-app",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.tuempresa.mantenlink"
+    }
+  }
+}
